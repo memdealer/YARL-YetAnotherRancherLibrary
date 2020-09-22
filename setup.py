@@ -8,8 +8,8 @@ setup(
   author = 'gusto',                  
   author_email = 'uncupoftea@gmail.com',      
   url = 'https://github.com/memdealer/YARL-YetAnotherRancherLibrary',  
-  download_url = 'https://github.com/memdealer/YARL-YetAnotherRancherLibrary/archive/v0.1-alpha.tar.gz',    # I explain this later on
-  keywords = ['rancher', 'rancher api', 'rancher token'],   # Keywords that define your package best
+  download_url = 'https://github.com/memdealer/YARL-YetAnotherRancherLibrary/archive/v0.1-alpha.tar.gz',   
+  keywords = ['rancher', 'rancher api', 'rancher token'],   
   install_requires=[        
 'certifi',
       'chardet',
