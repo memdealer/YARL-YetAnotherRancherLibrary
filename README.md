@@ -15,7 +15,7 @@ from RancherAuthToken import RancherAuthToken
 # initialize class
 rauth = RancherAuthToken("htttp(s)//blah.com:8080", "login", "pass")
 # unpack sc,ac,key_id
-_secret_key, _acccess_key, _key_id rauth.generate_api_token(name="foo", description="bar")
+_secret_key, _acccess_key, _key_id = rauth.generate_api_token(name="foo", description="bar")
 
 
 # initialize class
