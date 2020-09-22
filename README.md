@@ -1,5 +1,5 @@
 # YARL-YetAnotherRancherLibrary
-Another pathetic attempt to make a rancher compatible library for python 3, which supports 2-beta.
+Yet another attempt to make a rancher compatible library for python 3, which supports 2-beta.
 
 ## This lib presents two classes:
 ### RancherCow - which is a main class for interferring with rancher. I'm updating it once I need new methods. 
