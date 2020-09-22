@@ -25,3 +25,6 @@ rancher.get_status_of_container(i1ad)
 rauth.deactivate_api_token(_key_id)
 rauth.delete_api_token(_key_id)
 ```
+
+Alternatively, you can install it via PIP:
+pip install rancher-yarl==0.3
