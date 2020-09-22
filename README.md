@@ -6,12 +6,11 @@ Another pathetic attempt to make a rancher compatible library for python 3, whic
 ### RancherAuthToken - This class contains methods to control(spawn/delete/disable) API keys for an environment if you wish so, using your admin credentials.
 
 Usage: 
-
+```
 from RancherCow import RancherCow
 from RancherAuthToken import RancherAuthToken
 
 
-```
 # initialize class
 rauth = RancherAuthToken("htttp(s)//blah.com:8080", "login", "pass")
 # unpack sc,ac,key_id
