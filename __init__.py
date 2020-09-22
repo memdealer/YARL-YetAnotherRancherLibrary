@@ -1,2 +1,2 @@
-from rancher-yarl.RancherAuthToken import RancherAuthToken
-from rancher-yarl.RancherCow import RancherCow
+from rancher_yarl.RancherAuthToken import RancherAuthToken
+from rancher_yarl.RancherCow import RancherCow
